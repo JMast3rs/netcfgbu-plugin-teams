@@ -1,5 +1,5 @@
 
-import pymsteams
+import pymsteams, requests
 
 teams_webhook_url = "<< Insert Teams Webhook URL>>"
 
