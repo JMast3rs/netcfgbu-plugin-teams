@@ -11,7 +11,6 @@ This project expands on the work by [@minitriga](https://github.com/minitriga) f
 
 **Notification of Git Push (by using `git_report.py`)**
 ![](https://james.masters.bio/files/github/images/image2.PNG)
-![](https://james.masters.bio/files/github/images/image4b.PNG)
 
 ## Requirements
 
